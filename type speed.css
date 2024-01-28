@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-container {
+    background-image: linear-gradient(to right, #f3eaff, #dac0ff);
+    background-size: cover;
+    height: 120vh;
+    width: 100%;
+}
+
+.main-h {
+    color: #690cb0;
+    font-family: "Roboto";
+    font-size: 60px;
+    font-weight: bold;
+
+}
+
+.main-p {
+    color: #3e4c59;
+    font-family: "Roboto";
+    font-size: 20px;
+
+}
+
+.clk-img {
+    height: 60px;
+    width: 60px;
+}
+
+.seconds-in-nums {
+    color: #3e4c59;
+    font-family: "Roboto";
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.secs {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.inner-card {
+    border-radius: 20px;
+    background-color: #f3eaff;
+    height: 40vh;
+    padding: 20px;
+}
+
+.inner-card-one {
+    background-color: white;
+    margin: 10px;
+    height: 40px;
+    border-radius: 5px;
+    border-style: solid;
+}
+
+.inner-para {
+    color: #3e4c59;
+    font-family: "Roboto";
+    font-size: 20px;
+}
+
+.submit-btn {
+    background-color: #690cb0;
+    color: white;
+    border-radius: 5px;
+    height: 33px;
+    width: 76px;
+    margin-right: 10px;
+}
+
+.reset-btn {
+    background-color: #ffffff;
+    color: #323f4b;
+    border-radius: 5px;
+    height: 33px;
+    width: 76px;
+}
